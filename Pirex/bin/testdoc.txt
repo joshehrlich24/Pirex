@@ -1,0 +1,11 @@
+
+Title: Testing this Project part I
+
+Author: Mark Sizemore
+
+*** START OF THIS
+
+Here, "my friends I" have gone ahead and created
+a basic text file in attempts to test this project.
+
+End of the Project Gutenberg EBook
